@@ -1,0 +1,128 @@
+.links {
+    color: aqua;
+    background-color: beige;
+}
+
+.navbar-brand {
+    color: aqua;
+    background-color: beige;
+}
+
+.links hover {
+    background-color: fuchsia;
+    color: lime;
+}
+
+body {
+    font-family: Brush Script MT;
+    background-color: navajowhite;
+    font-size: 30px;
+    color: aquamarine;
+    text-align: center;
+}
+
+p {
+    font-family: cursive;
+    color: black;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: darkcyan;
+    font-size: 45;
+}
+
+#imgBlah {
+    border-radius: 30;
+    border-width: 30;
+}
+
+#img3 {
+    width: 700px;
+    height: 700px;
+}
+
+#img4 {
+    width: 500px;
+    height: 500px;
+}
+
+#p_modal_Will_Smith {
+    color: burlywood;
+}
+
+#p_modal_Lionel_Messi {
+    color: burlywood;
+}
+
+#Will_B {
+    color: burlywood;
+}
+
+#Soccer_Pro {
+    color: burlywood;
+}
+
+#Will_B:hover {
+    color: cyan;
+    font-size: 40px;
+}
+
+#Soccer_Pro:hover {
+    color: cyan;
+    font-size: 40px;
+}
+
+#B_Joe_Biden {
+    color: burlywood;
+}
+
+#B_Joe_Biden:hover {
+    color: cyan;
+    font-size: 40px;
+}
+
+#p_modal_Joe_Biden {
+    font-size: 40px;
+    color: burlywood;
+}
+
+.links {
+    padding-right: 25px;
+    padding-left: 33px;
+    font-family: Zapfino;
+    font-size: 20px;
+    display: inline;
+}
+
+.links:hover {
+    background-color: dodgerblue;
+    font-size: 30px;
+    text-decoration: underline;
+    color: aquamarine;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+#home {
+    background: linear-gradient(#FF060A 25%, #06FF7F 100%);
+}
+#understandingtheSchool{
+    padding-bottom: 200px;
+}
